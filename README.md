@@ -1,9 +1,9 @@
 # Banco_Agricola
 ProyectoCatedraDSS
 
-Integrantes:
-Yael Adonay Matamoros Guzmán MG222709
-Ángel Rodríguez Pimentel RP222723
-Raúl Adalberto Mulato Vázques MV222715
-Cristian Alexander Santos Escobar SE222727
-Marvin Josué Martínez Burgos MB210365
+Integrantes: 
+Yael Adonay Matamoros Guzmán MG222709 <br>
+Ángel Rodríguez Pimentel RP222723 <br>
+Raúl Adalberto Mulato Vázques MV222715 <br>
+Cristian Alexander Santos Escobar SE222727 <br>
+Marvin Josué Martínez Burgos MB210365 <br>
