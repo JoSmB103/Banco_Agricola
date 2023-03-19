@@ -1,0 +1,60 @@
+.banner {
+  position: relative;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.banner-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.banner-text {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  color: #fff;
+}
+
+.banner-text h1 {
+  font-size: 60px;
+  margin: 0;
+  line-height: 1.2;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-shadow: 5px 5px black;
+}
+
+.banner-text p {
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 0;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-shadow: 5px 5px black;
+}
+
+.banner {
+  background-image: url('../Img/banco.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+@media screen and (max-width: 600px) {
+  .banner {
+    height: 200px;
+  }
+  
+  .banner-text h1 {
+    font-size: 2em;
+  }
+  
+  .banner-text p {
+    font-size: 1em;
+  }
+}
